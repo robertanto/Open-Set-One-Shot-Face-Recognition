@@ -11,7 +11,7 @@ Execute the following commands to setup you project.
 ```bash 
 git clone https://github.com/robertanto/Open-Set-One-Shot-Face-Recognition.git
 cd Open-Set-One-Shot-Face-Recognition
-wget 
+wget https://github.com/robertanto/Open-Set-One-Shot-Face-Recognition/releases/download/final/weights.zip
 unzip weights.zip
 rm weights.zip
 pip3 install -r requirements.txt
