@@ -9,7 +9,7 @@ This repository contains the implementation of a Face Recognition systems workin
 Execute the following commands to setup you project.
 
 ```bash 
-git clone 
+git clone https://github.com/robertanto/Open-Set-One-Shot-Face-Recognition.git
 cd Open-Set-One-Shot-Face-Recognition
 wget 
 unzip weights.zip
