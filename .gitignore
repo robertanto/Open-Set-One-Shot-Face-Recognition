@@ -1,3 +1,14 @@
+# Images
+face_identities/*.jpg
+face_identities/*.jpeg
+face_identities/*.png
+
+# Weights
+weights/*
+
+# Embeddings
+embed.pk
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
