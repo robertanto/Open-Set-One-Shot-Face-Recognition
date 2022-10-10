@@ -1,6 +1,6 @@
 # Open-Set One-Shot Face-Recognition
 
-This repository contains the python implementation of a Face Recognition systems working with just ONE image for each face to recognize. The system works in an open-set configuration, it means that it is able to reject not known people.
+This repository contains the python implementation of a Face Recognition system working with just ONE image for each face to recognize. The system works in an open-set configuration, it means that it is able to reject not known people.
 
 <img src="./demo.png" style="max-width:600px; width:100%">
 
